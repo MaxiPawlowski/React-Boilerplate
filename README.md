@@ -5,6 +5,7 @@ Boilerplate made with:
 - Router
 - Redux
 - Sagas
+- JSS
 - Jest/Enzyme
 - Eslint
 - Husky
